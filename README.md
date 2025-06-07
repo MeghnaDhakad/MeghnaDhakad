@@ -1,5 +1,5 @@
 ## Hi there
-I’m currently working on developing 
+I’m currently working on developing \n
 I’m currently learning computer science
 I'm fascinated by True Crime Podcasts 
 I'm learning C/Python/C++
