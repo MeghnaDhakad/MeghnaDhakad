@@ -1,8 +1,8 @@
 ## Hi there
-I’m currently working on developing \n
-I’m currently learning computer science
-I'm fascinated by True Crime Podcasts 
-I'm learning C/Python/C++
+- I’m currently working on developing 
+- I’m currently learning computer science
+- I'm fascinated by True Crime Podcasts 
+- I'm learning C/Python/C++
 <!--
 **MeghnaDhakad/MeghnaDhakad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
